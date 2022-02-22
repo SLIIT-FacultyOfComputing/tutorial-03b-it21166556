@@ -18,7 +18,7 @@ void print(int len, int wth) {
         << ", Width  : " << wth << endl;
 }
 
-void input (int &len, int& wth)
+void input (int &len, int &wth)
 {
   cout << "Enter the length :- ";
   cin >> len;
